@@ -1,22 +1,20 @@
 ## Hi, I'm [Sadhan Sarker!](https://mesadhan.github.io) 👋 
-Welcome to my profile! I'm a software engineer at Maxis Systems Limited Research and I specialize in APIs and Cloud Native Applications Development.
-Additionally I'm passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, ReactJS, NodeJS, JavaScript, APIs and GraphQL. Thanks for visiting and I'd love to [connect!](https://linkedin.com/in/csesadhan)
+Welcome to my profile! I'm specialize in APIs and Cloud Native Applications Development.
+Additionally I'm passionate about making open-source more accessible, creating technology to elevate people, and building community. Thanks for visiting and I'd love to [connect!](https://linkedin.com/in/csesadhan)
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/csesadhan/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/cse.sadhan/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:cse.sadhan@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Sadhan-2648ff?style=flat-square&logo=google-chrome)](https://mesadhan.github.io)
 
+### :thought_balloon: [Ask me anything!](https://github.com/mesadhan/mesadhan/issues/new?template=addword.md&title=discussion%7Cadd%7C%3CINSERT-WORD%3E) share your idea and thoughtful discussion :rocket:
+___
 
 <!--
 #### Open To Work
 Full Stack Engineer · Full Stack Developer · DevOps · Software Engineer · Web Developer · Software Engineer 
 as Full-time · Contract · Part-time · Internship · Temporary · Remote
 -->
-
-### :thought_balloon: [Ask me anything!](https://github.com/mesadhan/mesadhan/issues/new?template=addword.md&title=discussion%7Cadd%7C%3CINSERT-WORD%3E) share your idea and thoughtful discussion :rocket:
-
-
 
 
 <!--
@@ -86,14 +84,13 @@ Here are some ideas to get you started:
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
   
-- 🤔 I’m looking for help with AI & ML.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [connect!](https://linkedin.com/in/csesadhan)
 
 
 
 
-
+___
 <!--
 **Most Using Programming Languages:**
 
@@ -106,20 +103,33 @@ Here are some ideas to get you started:
 </code>
 </span>
 
-
-
-**🛠 &nbsp;Tech Tools & Technologies:**
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesadhan&layout=compact)](https://github.com/mesadhan)
 
 -->
+
+
+
+
+**🛠 &nbsp;Tech Tools & Technologies Stack:**
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)&nbsp;
+![Spring](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<br/>
+
+
+
 
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mesadhan&repo=pizza-shop-for-innoscripta)](https://github.com/mesadhan/pizza-shop-for-innoscripta)
