@@ -66,14 +66,14 @@ Here are some ideas to get you started:
 
 
 
-## 💖 Support those projects
+<!--
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mesadhan&repo=pizza-shop-for-innoscripta)](https://github.com/mesadhan/pizza-shop-for-innoscripta)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mesadhan&repo=local-devops-pipeline-vagrant)](https://github.com/mesadhan/local-devops-pipeline-vagrant)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mesadhan&repo=single-node-k8s-workspace-vagrant)](https://github.com/mesadhan/single-node-k8s-workspace-vagrant)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mesadhan&repo=single-node-k8s-workspace-vagrant)](https://github.com/mesadhan/single-node-k8s-workspace-vagrant)
+-->
 
 
 <a href="https://github.com/mesadhan">
@@ -85,3 +85,5 @@ Here are some ideas to get you started:
 
 Show some ❤️ by starring some of the repositories!
 Thank You! 😊 
+
+## 💖 Support those projects
